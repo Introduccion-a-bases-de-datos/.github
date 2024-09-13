@@ -1,6 +1,3 @@
-Here is a `README.md` for the entire organization:
-
-```md
 # Introducción a Bases de Datos
 
 ## Descripción
@@ -45,6 +42,3 @@ Si deseas contribuir con mejoras o nuevas consultas, siéntete libre de hacer un
 ---
 
 ¡Esperamos que estos proyectos te ayuden a profundizar tu conocimiento sobre bases de datos!
-```
-
-Este archivo README proporciona una vista general de la organización y sus repositorios, permitiendo a los usuarios entender de qué se trata cada proyecto y cómo pueden empezar a utilizarlos.
